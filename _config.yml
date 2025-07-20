@@ -1,9 +1,6 @@
 
 title: Flora Guard Reviews
-description: SEO Blog to Rank Keywords & Link to Flora Guard Sites
-baseurl: ""
-url: "https://reviews.flora-guard.ca"
-theme: theme: minimal-mistakes-jekyll
-
+description: Honest blog reviews for Flora Guard probiotic supplement.
+remote_theme: mmistakes/minimal-mistakes
 plugins:
-  - jekyll-seo-tag
+  - jekyll-include-cache
