@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reviews.flora-guard.ca/sitemap.xml
