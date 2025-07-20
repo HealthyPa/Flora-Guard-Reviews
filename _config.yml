@@ -1,6 +1,4 @@
-
-title: Flora Guard Reviews
-description: Honest blog reviews for Flora Guard probiotic supplement.
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
+title: Flora Guard Blog
+description: SEO Blog for Flora Guard Probiotic
+theme: minima
+permalink: /:year-:month-:day-:title.html

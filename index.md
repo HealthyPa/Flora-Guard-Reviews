@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Flora Guard Reviews"
+title: Welcome to Flora Guard Blog
 ---
-
-Explore our latest blog posts reviewing Flora Guard — a powerful probiotic supplement supporting urinary tract health.
+Explore our latest posts on Flora Guard and discover its benefits.
