@@ -3,6 +3,7 @@ title: Flora Guard Reviews
 description: SEO Blog to Rank Keywords & Link to Flora Guard Sites
 baseurl: ""
 url: "https://reviews.flora-guard.ca"
-theme: minima
+theme: theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-seo-tag
