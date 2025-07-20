@@ -1,5 +1,8 @@
+
 title: Flora Guard Reviews
-description: Natural UTI Support for Women Over 40
+description: SEO Blog to Rank Keywords & Link to Flora Guard Sites
 baseurl: ""
 url: "https://reviews.flora-guard.ca"
 theme: minima
+plugins:
+  - jekyll-seo-tag

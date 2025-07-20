@@ -1,12 +1,7 @@
+
 ---
-layout: default
+layout: home
 title: Welcome to Flora Guard Reviews
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
+Explore our latest blog posts reviewing Flora Guard — a powerful probiotic supplement supporting urinary tract health.
